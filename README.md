@@ -73,4 +73,3 @@ Thank you for choosing Swigmato. We're passionate about simplifying your food or
 Happy dining!
 
 The Swigmato Team
-```
